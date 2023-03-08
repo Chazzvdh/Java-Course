@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f67532-03f5-4eb7-ac4b-b6c7946372a2" name="Changes" comment="Dag 1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui_intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_statements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logical_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/random_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swap_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user_input.java" afterDir="false" />
+    <list default="true" id="f0f67532-03f5-4eb7-ac4b-b6c7946372a2" name="Changes" comment="Dag 2">
+      <change afterPath="$PROJECT_DIR$/src/array_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested_loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twod_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wrapper_classes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/chazz/IdeaProjects/Java-Course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1677504777702</updated>
       <workItem from="1677504778811" duration="4124000" />
-      <workItem from="1677586307657" duration="2971000" />
+      <workItem from="1677586307657" duration="2990000" />
+      <workItem from="1678089879612" duration="79000" />
+      <workItem from="1678304483269" duration="5085000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1677504951642</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677504951642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dag 2">
+      <created>1677589318256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677589318256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +102,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Dag 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dag 1" />
+    <MESSAGE value="Dag 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dag 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
