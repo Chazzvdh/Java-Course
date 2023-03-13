@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0f67532-03f5-4eb7-ac4b-b6c7946372a2" name="Changes" comment="Dag 2">
-      <change afterPath="$PROJECT_DIR$/src/array_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested_loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twod_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/while_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wrapper_classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2/Muziek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP2/genreCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/for_each_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overloaded_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twod_array_list.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,22 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/chazz/IdeaProjects/Java-Course",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chazz/IdeaProjects/Java-Course&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +71,11 @@
       <workItem from="1677504778811" duration="4124000" />
       <workItem from="1677586307657" duration="2990000" />
       <workItem from="1678089879612" duration="79000" />
-      <workItem from="1678304483269" duration="5085000" />
+      <workItem from="1678304483269" duration="5170000" />
+      <workItem from="1678435672265" duration="237000" />
+      <workItem from="1678625071595" duration="4243000" />
+      <workItem from="1678636676974" duration="3251000" />
+      <workItem from="1678735130627" duration="3078000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1677504951642</created>
@@ -82,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677589318256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dag 2">
+      <created>1678313274023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678313274023</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
